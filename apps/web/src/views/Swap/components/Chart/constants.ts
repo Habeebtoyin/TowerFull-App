@@ -1,0 +1,4 @@
+// BNB Address
+const BNB_ADDRESS = '0xaB6b6212e5443228D586cE5Aeb54B02b185208Cc'
+
+export { BNB_ADDRESS }
